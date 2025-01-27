@@ -1,0 +1,7 @@
+Array
+	1. Reverse Array - 2 Pointer
+	2. Min-Max in Array
+	3. Kth Max / Kth Min - Priority_Queue
+	4. Sort 0s, 1s and 2s array - 3 Pointer - Single Iteration
+	5. Move all the negative elements to one side of the array - Same as Sort 0s, 1s and 2s but simpler version
+	6. Find the Union and Intersection of the two sorted arrays - Map
