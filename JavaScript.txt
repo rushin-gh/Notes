@@ -1,0 +1,45 @@
+- Weakly typed
+- Dynamic / Interpreted
+
+- defer Keyword
+
+- JS Engines
+	> V8(Chrome)
+	> SpiderMonkey(Firefox)
+	
+- Browser Side (Js) / Server Side (Node.js)
+
+- var / let / const
+	> Block vs Function scope
+	> avoid using var due to scoping issue
+	
+- console.log()
+- console.table([])
+
+- undefined Keyword
+
+- value / val() / textContent
+	> value : JS method, works with forms elements
+	> val() : JQuery method, works with forms elements
+	> textContent : works with all elements
+	
+- Template literals / string interpolation
+	> backticks (``)
+
+- Order of referencing js files in html is important
+
+- toastr
+	> Js Library
+	> Depends on JQuery
+	
+- Local / Global Scope
+
+- Shaddowing
+	> Variables with same name but in different scope
+
+- Function
+	> return - can be used to stop function execution mid-way
+	
+- .addEventListener(event, function)
+	> What function should be called if event occurs
+	> Send function as Reference
