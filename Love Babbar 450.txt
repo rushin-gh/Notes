@@ -4,4 +4,5 @@ Array
 	3. Kth Max / Kth Min - Priority_Queue
 	4. Sort 0s, 1s and 2s array - 3 Pointer - Single Iteration
 	5. Move all the negative elements to one side of the array - Same as Sort 0s, 1s and 2s but simpler version
-	6. Find the Union and Intersection of the two sorted arrays - Map
+	6. Find the Union and Intersection of the two sorted arrays - Two Pointers when sorted
+	7. Rotate array by K elements - Reversal Approach [For Left : k, n - k] [For Right : n - k, k], Reverse rest to counter undesired effect
