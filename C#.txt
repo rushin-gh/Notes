@@ -27,3 +27,27 @@ Printing Syntax
 	String.Concat			: string.Concat("Hello", " ", "World")
 	string.Join				: string.Join(", ", array)
 	Custom Formatting		: "Today's date: {0:yyyy-MM-dd}"
+	
+Array
+	Rectangular
+	Jagged
+	
+Destructor
+	~ : Declared using
+	Special Method to deallocate memory allocated for Object
+	Cant Overloaded and Inherited
+	No Access Modifiers
+	No Parameters
+
+IDE
+	Integrated Development Environment
+	Help developers to write and test code
+
+Source Code
+	Text document of Code
+	
+Compilation
+	Converting Source code to Machine readable code
+
+Dynamic Link Library
+	Machine Code
