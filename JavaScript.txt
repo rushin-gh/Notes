@@ -43,3 +43,19 @@
 - .addEventListener(event, function)
 	> What function should be called if event occurs
 	> Send function as Reference
+
+- Input in JS are always strings
+
+- NaN
+	> Not a number
+	
+- Conversion in Int from String
+	> parseInt()
+	> +data
+	
+- IMP
+	> 1 + '1' = '11' (Special case)
+	> 1 - '1' = 0
+	> 1 * '1' = 1
+	> 1 / '1' = 1
+	
