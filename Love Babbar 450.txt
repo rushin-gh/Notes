@@ -1,10 +1,40 @@
 Array
-	1. Reverse Array - 2 Pointer
+	1. Reverse Array
+		> 2 Pointer
+		
 	2. Min-Max in Array
-	3. Kth Max / Kth Min - Priority_Queue
-	4. Sort 0s, 1s and 2s array - 3 Pointer - Single Iteration
-	5. Move all the negative elements to one side of the array - Same as Sort 0s, 1s and 2s but simpler version
-	6. Find the Union and Intersection of the two sorted arrays - Two Pointers when sorted
-	7. Rotate array by K elements - Reversal Approach [For Left : k, n - k] [For Right : n - k, k], Reverse rest to counter undesired effect
-	8. Largest Sum Contiguos array - Kadane's algorithm
-	9. Minimise the maximum difference between heights - Intuition based
+	
+	3. Kth Max / Kth Min
+		> Priority_Queue
+		> For Min use Max PQ
+		> For Max use Min PQ
+		
+	4. Sort 0s, 1s and 2s array
+		> Single Iteration
+		> 2 Pointers : zerosRegion, twosRegion
+		
+	5. Move all the negative elements to one side of the array
+		> Same as Sort 0s, 1s and 2s but simpler version
+		
+	6. Find the Union and Intersection of the two sorted arrays
+		> 2 Pointers
+		
+	7. Rotate array by K elements
+		> Reversal Approach [For Left : k, n - k] [For Right : n - k, k] Reverse rest to counter undesired effect
+		
+	8. Largest Sum Contiguos arrays
+		> Kadane's algorithm
+		
+	9. Minimise the maximum difference between heights
+		> Implementation
+		
+	10. Minimum no. of Jumps to reach end of an array
+		> Logic - Jumps, MaxReach, LeftFromCurJump
+		> Base Cases - Single Point, If MaxReach = 0, If On Last Point dont Jumps++
+		
+	11. Find duplicate in an array of N+1 Integers
+		> Logic - O(1)
+		
+	12. Merge 2 sorted arrays without using Extra space
+		> Approach one - Start from last in first array and from first in second array and swap them if FirstArr[i] > SecondArr[j]
+			sort both arrays once done.
