@@ -1,53 +1,53 @@
-CLR
-	Multi-Language Execution Environment
-	Common Intermediate Language (CIL) / Microsoft Intermediate Language (MSIL)
-	Just In Time (JIT) Compiler
+- CLR
+	> Multi-Language Execution Environment
+	> Common Intermediate Language (CIL) / Microsoft Intermediate Language (MSIL)
+	> Just In Time (JIT) Compiler
 
-Namespace
-	Used to organise the code
-	Full Qualified Name (FQN)
+- Namespace
+	> Used to organise the code
+	> Full Qualified Name (FQN)
 
-Main Method
-	Starting Point of an application
+- Main Method
+	> Starting Point of an application
 
-Const
-	Value cannot be changed in future
-	Declaration and Initialization must be in single line
-	Cannot declare using var (implicitly)
-	Used with value types and not reference types
+- Const
+	> Value cannot be changed in future
+	> Declaration and Initialization must be in single line
+	> Cannot declare using var (implicitly)
+	> Used with value types and not reference types
 
-Printing Syntax
-	Concatenation			: "Name: " + name + ", Age: " + age
-	Placeholder				: "Name: {0}, Age: {1}"
-	Interpolation			: $"Name: {name}, Age: {age}"
-	StringBuilder			: sb.Append("Name: "); sb.Append(name);
-	Verbatim Strings		: @"C:\folder\file.txt"
-	string.Format			: string.Format("Name: {0}, Age: {1}", name, age)
-	Console.WriteLine		: Console.WriteLine(variable)
-	String.Concat			: string.Concat("Hello", " ", "World")
-	string.Join				: string.Join(", ", array)
-	Custom Formatting		: "Today's date: {0:yyyy-MM-dd}"
+- Printing Syntax
+	> Concatenation			: "Name: " + name + ", Age: " + age
+	> Placeholder				: "Name: {0}, Age: {1}"
+	> Interpolation			: $"Name: {name}, Age: {age}"
+	> StringBuilder			: sb.Append("Name: "); sb.Append(name);
+	> Verbatim Strings		: @"C:\folder\file.txt"
+	> string.Format			: string.Format("Name: {0}, Age: {1}", name, age)
+	> Console.WriteLine		: Console.WriteLine(variable)
+	> String.Concat			: string.Concat("Hello", " ", "World")
+	> string.Join				: string.Join(", ", array)
+	> Custom Formatting		: "Today's date: {0:yyyy-MM-dd}"
 	
-Array
-	Rectangular
-	Jagged
+- Array
+	> Rectangular
+	> Jagged
 	
-Destructor
-	~ : Declared using
-	Special Method to deallocate memory allocated for Object
-	Cant Overloaded and Inherited
-	No Access Modifiers
-	No Parameters
+- Destructor
+	> ~ : Declared using
+	> Special Method to deallocate memory allocated for Object
+	> Cant Overloaded and Inherited
+	> No Access Modifiers
+	> No Parameters
 
-IDE
-	Integrated Development Environment
-	Help developers to write and test code
+- IDE
+	> Integrated Development Environment
+	> Help developers to write and test code
 
-Source Code
-	Text document of Code
+- Source Code
+	> Text document of Code
 	
-Compilation
-	Converting Source code to Machine readable code
+- Compilation
+	> Converting Source code to Machine readable code
 
-Dynamic Link Library
-	Machine Code
+- Dynamic Link Library
+	> Machine Code
