@@ -59,3 +59,15 @@
 	> 1 * '1' = 1
 	> 1 / '1' = 1
 	
+- Number("") = 0
+	> Data conversion
+
+- Datatypes
+	> Numbers - Integers, Floats
+	> Strings - '', ``, ""
+	> Booleans - true, false
+	> Objects - {}
+	> Arrays - []
+	
+- Arrays
+	> push() -> Pushes element and returns length	
